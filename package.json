@@ -1,0 +1,24 @@
+{
+  "name": "maplist",
+  "version": "1.0.0",
+  "description": "List of maps build on CIMEngine",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIMEngine/MapList.git"
+  },
+  "keywords": [
+    "list",
+    "map",
+    "geojson"
+  ],
+  "author": "artegoser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CIMEngine/MapList/issues"
+  },
+  "homepage": "https://github.com/CIMEngine/MapList#readme"
+}
