@@ -9,10 +9,5 @@
     "description": "Map of the Virtual States of the ERTH2 Universe",
     "geoURL": "https://erth2.github.io/movc/geo/geo.geojson",
     "countryInfoURL": "https://erth2.github.io/movc/geo/src/countries.json"
-  },
-  "cringemap": {
-    "name": "Cringemap",
-    "geoURL": "https://raw.githubusercontent.com/dusiburg/cringemap/main/Cringemap/geo.geojson",
-    "countryInfoURL": "https://raw.githubusercontent.com/dusiburg/cringemap/main/Cringemap/src/countries.json"
   }
 }
