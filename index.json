@@ -9,5 +9,11 @@
     "description": "Map of the Virtual States of the ERTH2 Universe",
     "geoURL": "https://erth2.github.io/movc/geo/geo.geojson",
     "countryInfoURL": "https://erth2.github.io/movc/geo/src/countries.json"
+  },
+  "vgovernments": {
+    "name": "Virtual Governments",
+    "description": "Map of Virtual Countries from OOVC organisation.",
+    "geoURL": "https://raw.githubusercontent.com/agaria-rep/CIMOOVG/main/map/geo.geojson",
+    "countryInfoURL": "https://raw.githubusercontent.com/agaria-rep/CIMOOVG/main/map/src/countries.json"
   }
 }
