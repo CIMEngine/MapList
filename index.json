@@ -15,5 +15,11 @@
     "description": "Map of Virtual Countries from OOVC organisation.",
     "geoURL": "https://raw.githubusercontent.com/agaria-rep/CIMOOVG/main/map/geo.geojson",
     "countryInfoURL": "https://raw.githubusercontent.com/agaria-rep/CIMOOVG/main/map/src/countries.json"
+  },
+  "ivc": {
+    "name": "International Virtual Countries",
+    "description": "Map of International Virtual Countries (League of Virtual Nations).",
+    "geoURL": "https://raw.githubusercontent.com/Eugeny2010/ivc-map/main/map/geo.geojson",
+    "countryInfoURL": "https://raw.githubusercontent.com/Eugeny2010/ivc-map/main/map/src/countries.json"
   }
 }
