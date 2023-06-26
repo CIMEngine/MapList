@@ -21,4 +21,5 @@
     "description": "Map of International Virtual Countries (League of Virtual Nations).",
     "geoURL": "https://raw.githubusercontent.com/Eugeny2010/ivc-map/main/map/geo.geojson",
     "countryInfoURL": "https://raw.githubusercontent.com/Eugeny2010/ivc-map/main/map/src/countries.json"
+  }
 }
