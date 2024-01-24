@@ -1,8 +1,6 @@
 {
   "worldMap": {
-    "name": "Political Map of the World",
-    "geoURL": "https://raw.githubusercontent.com/CIMEngine/WorldMap/main/map/geo.geojson",
-    "countryInfoURL": "https://raw.githubusercontent.com/CIMEngine/WorldMap/main/map/src/countries.json"
+    "external": "https://raw.githubusercontent.com/CIMEngine/WorldMap/main/map/map_settings.json"
   },
   "vgovernments": {
     "name": "Virtual Governments",
